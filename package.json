@@ -9,7 +9,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1",
     "redux-devtools": "^3.4.1",
-      "homepage": "https://silly-jennings-b4f093.netlify.app/",
+     
   },
   "dependencies": {
     "history": "^4.7.2",
